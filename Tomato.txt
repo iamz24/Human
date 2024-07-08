@@ -1,2 +1,0 @@
-- Sử dụng dirb để tìm các directory ẩn
-- lbs_realese -a để xem phiên bản
